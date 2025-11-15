@@ -12,4 +12,3 @@ The CTF offers a wide range of technical challenges across multiple cybersecurit
 - 🛠️ **Binary Exploitation (Pwn)**  
 - 🔎 **Reverse Engineering**  
 - 🕵️ **Digital Forensics**  
-
